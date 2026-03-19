@@ -1,2 +1,3 @@
-# super-fintech-app-xiw0
+# Super Fintech App Xiw0
+
 A financial technology application for modern development workflows.
